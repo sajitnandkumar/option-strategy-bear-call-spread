@@ -1,0 +1,1 @@
+# option-strategy-bear-call-spread
